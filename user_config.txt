@@ -1,0 +1,13 @@
+source_file = "user_demo.txt"；
+final_file = "user_result.txt"
+favorite_1ist=r
+"广东珠江”，
+"CCTV-1",
+"CCTV-5"
+favorite_page_num = 6
+default_page_num = 4
+uris_limit = 15
+response_time_weight = 0.5
+resolution_weight = 0.5
+recent_days = 30
+ipv_type = "ipv4"|
